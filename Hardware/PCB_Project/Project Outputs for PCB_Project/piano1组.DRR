@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: piano1ื้.PcbDoc   2022/4/25  21:21:19
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : piano1ื้-RoundHoles.TXT
+ASCII SlotHoles File : piano1ื้-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.7mm)                                             Round             7         PTH        1.14inch (28.87mm)
+T2      28mil (0.711mm)                                           Round             10        PTH        5.25inch (133.40mm)
+T3      30mil (0.762mm)                                           Round             18        PTH        4.29inch (109.05mm)
+T4      32mil (0.8mm)                                             Round             84        PTH        19.97inch (507.15mm)
+T5      32mil (0.813mm)                                           Round             9         PTH        0.80inch (20.32mm)
+T6      33mil (0.85mm)                                            Round             12        PTH        5.61inch (142.52mm)
+T7      35mil (0.9mm)                                             Round             50        PTH        7.61inch (193.36mm)
+T8      35mil (0.9mm)                                             Slot              2         PTH        0.57inch (14.60mm)
+T9      39mil (1mm)                                               Round             6         PTH        0.64inch (16.16mm)
+T10     40mil (1.016mm)                                           Round             4         PTH        0.28inch (6.99mm)
+T11     95mil (2.413mm)                                           Round             2         PTH        0.54inch (13.59mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              204
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,20 @@
+[0425/213032.294:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0425/213032.296:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0425/213315.967:INFO:CONSOLE(4)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", source: https://dfm.jiepei.com/Scripts/jquery-1.11.0.min.js (4)
+[0425/213648.165:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0425/213648.165:WARNING:resource_bundle.cc(933)] locale resources are not loaded
+[0425/213736.830:INFO:CONSOLE(4)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", source: https://dfm.jiepei.com/Scripts/jquery-1.11.0.min.js (4)
+[0425/215322.928:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0425/215327.965:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0425/215332.989:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0425/215338.029:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0425/215343.058:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0425/215348.073:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0425/215353.082:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0425/215358.113:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0425/215403.133:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0425/215408.145:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0425/215413.158:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0425/215418.169:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0425/215423.181:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0425/215423.623:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.

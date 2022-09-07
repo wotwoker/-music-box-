@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VCC Pin=LS1-1
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=LS1-2
+Added Pin To Net: NetName=VCC Pin=Q1-1
+Added Pin To Net: NetName=NetLS1_1 Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_1 Pin=Q1-3
+Added Net: Name=NetLS1_1
+Change Class Name : Old Net Name=电子琴 New Net Name=电子琴1组

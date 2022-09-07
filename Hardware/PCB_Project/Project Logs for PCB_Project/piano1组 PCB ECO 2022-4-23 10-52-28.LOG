@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC Pin=R1-2
+Removed Member From Class: ClassName=µç×ÓÇÙ1×é Member=R1
+Change Component Comment : Designator=R4 Old Comment=10K New Comment=1K
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U1-3
+Added Net: Name=NetR4_1

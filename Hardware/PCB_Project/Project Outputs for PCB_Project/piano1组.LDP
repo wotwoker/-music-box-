@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\code\AltiumDesigner\电子琴\PCB_Project\piano1组.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=piano1组-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=piano1组-slotholes.txt|DrillLayers=gtl,gbl

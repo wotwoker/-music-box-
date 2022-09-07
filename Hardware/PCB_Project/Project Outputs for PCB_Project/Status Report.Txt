@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_Project.PrjPcb]
+   Generated File[piano1组-RoundHoles.TXT]
+   Generated File[piano1组-SlotHoles.TXT]
+   Generated File[piano1组.LDP]
+   Generated File[piano1组.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 21:21:19 On 2022/4/25
