@@ -20,6 +20,9 @@
     使用定时器中断系统，中断后使Buzzer反转，每个音对应不同的定时器初值。
     不同的曲目对应不同的 Music[]（目前只有Music1、Music2)。
 
+
+## 成果图
+(1)[https://github.com/wotwoker/-music-box-/blob/main/%E6%9D%90%E6%96%99%E6%96%87%E6%A1%A3/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%871.jpg?raw=true]
     
 
 
